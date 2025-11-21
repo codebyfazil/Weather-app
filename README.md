@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # 🌦️ Weather App
 
@@ -171,3 +172,6 @@ This project is open source under the **MIT License**.
   
   
 
+=======
+# Weather-app
+>>>>>>> 5550001338b0f8b6f2f1737e618b64cf6d65953b
