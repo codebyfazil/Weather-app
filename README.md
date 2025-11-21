@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # 🌦️ Weather App
 
   
@@ -166,12 +164,3 @@ This project is open source under the **MIT License**.
   
 ---
 🌍 Made for everyone who wants quick, accurate weather updates — anytime, anywhere.
-
-
-
-  
-  
-
-=======
-# Weather-app
->>>>>>> 5550001338b0f8b6f2f1737e618b64cf6d65953b
